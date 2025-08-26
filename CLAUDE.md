@@ -112,3 +112,5 @@ Documents are processed into:
 - **Database**: ChromaDB creates persistent storage in `./chroma_db`
 - **Tool Architecture**: Plugin-style tool system for Claude function calling
 - **Frontend Simplicity**: Vanilla JS chosen for educational clarity over TypeScript complexity
+
+- Use uv to run Python code.
